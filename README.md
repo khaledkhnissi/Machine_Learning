@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khaledkhnissi a doctor engineer in Robotics & AI
-- 👀 I’m interested in Robotics & Artificial intelligence
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Robotics & Artificial intelligence.
 - 📫 How to reach me 
         Email : khaledkhnissi@gmail.com
         Whatsapp : +216 40 856 462
